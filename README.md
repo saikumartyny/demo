@@ -91,10 +91,7 @@ Designing a robust architecture for your React app is crucial for scalability, m
 2. **State Management:**
 
    - **Local State**: For simpler apps, React's built-in state management using `useState` and `useReducer` might suffice.
-   - **Context API**: For global state that needs to be shared across components without deep prop drilling.
-   - **Redux**: A popular state management library for managing complex global state, actions, and reducers.
-   - **Mobx**: Another option for state management, offering observable data stores.
-
+   
 3. **Routing:**
 
    - **react-router**: A widely used library for handling navigation and routing in React apps.
