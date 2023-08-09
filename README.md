@@ -12,7 +12,11 @@ Multiscreens is about, Digital transformation of facilities and property managem
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [About Techstack](#about-techstack)
-- []
+- [Style Guide](#style-guide)
+- [Naming Conventions](#naming-conventions)
+- [Folder Structure](#folder-structure)
+- [State Management](#state-management)
+- [Architecture](#architecture)
 
 ## Installation
 
