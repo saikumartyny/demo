@@ -1,10 +1,10 @@
 ## Project Name
 
-Helixsense - Multiscreens
+Name of your project.
 
 ## Description
 
-Multiscreens is about, Digital transformation of facilities and property management, end users can see the data in visualized format.
+Provide a brief overview of your project. What problem does it solve? What is its main functionality? You can also include screenshots or gifs here to give readers a visual understanding.
 
 ## Table of Contents
 
