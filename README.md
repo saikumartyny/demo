@@ -119,6 +119,9 @@ src/
 - styles: Global and component-specific styles.
 - redux: App's global state
 
+## Application Architecture
+![image](https://github.com/saikumartyny/demo/assets/111567733/8ddfa9b9-0335-49a2-8b41-6d5bfc362aed)
+
 
 ## Contributing
 
