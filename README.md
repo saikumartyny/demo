@@ -125,9 +125,9 @@ src/
 
 ## Contributing
 
-saikumartyny
+Sai Kumar Vasamsetti : git - saikumartyny
 
 ## Contact
 
-Saikumar Vasamsetti
+Sai Kumar Vasamsetti
 email: saikumar.vasamsetti@tynybay.com
