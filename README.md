@@ -13,6 +13,7 @@ Provide a brief overview of your project. What problem does it solve? What is it
 - [Features](#features)
 - [Upcoming Features](#upcoming-features)
 - [Technologies Used](#technologies-used)
+- [React Guide](#react-guide)
 - [Style Guide](#style-guide)
 - [Folder Structure](#folder-structure)
 - [Application Architecture](#application-architecture)
@@ -45,6 +46,13 @@ List the main technologies, libraries, and tools used in your project. For a Rea
 - State management (e.g., Redux)
 - CSS frameworks (e.g., Bootstrap, Material-UI)
 
+## React Guide
+- Extensions: Use .jsx extension for React components(for Typescript .tsx).
+- Filename: Use PascalCase for filenames. E.g., ReservationCard.jsx.
+- Reference Naming: Use PascalCase for React components and camelCase for their instances.
+- Component Naming: Use the filename as the component name. For example, ReservationCard.jsx should have a reference name of ReservationCard. However,     for root components of a directory, use index.jsx as the filename and use the directory name as the component name
+- Props Naming: Avoid using DOM component prop names for different purposes.
+- Quotes: Always use double quotes (") for JSX attributes, but single quotes (') for all other JS
 
 ## Style Guide
 - Primary: #007BFF
