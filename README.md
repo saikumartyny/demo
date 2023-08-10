@@ -60,7 +60,6 @@ List the main technologies, libraries, and tools used in your project. For a Rea
 ## Folder Structure
 
 src/
-├── appData
 ├── assets/
 │   ├── images/
 │   ├── fonts/
@@ -95,6 +94,7 @@ src/
 ├── styles/
 │   ├── global.css
 ├── App.js
+├── index.js
 ├── index.css
 ├── serviceWorker.js
 ├── setupTests.js
