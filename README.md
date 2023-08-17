@@ -125,7 +125,7 @@ src/
 
 ## Contributing
 
-Sai Kumar Vasamsetti : git - saikumartyny
+Sai Kumar Vasamsetti : git userid : saikumartyny
 
 ## Contact
 
